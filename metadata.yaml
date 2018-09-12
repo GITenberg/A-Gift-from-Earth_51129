@@ -8,6 +8,9 @@ contributor:
     - Kossin
     gutenberg_agent_id: '34255'
     url: http://www.gutenberg.org/2009/agents/34255
+covers:
+- cover_type: archival
+  image_path: 51129-h/images/cover.jpg
 creator:
   author:
     agent_name: Banister, Manly
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '46252'
     url: http://www.gutenberg.org/2009/agents/46252
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51129#A-Gift-from-Earth
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-02-05'
 gutenberg_type: Text
